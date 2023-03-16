@@ -1,1 +1,2 @@
-# task3_ganjilgenapnfibonaci
+# task3
+Ganjil Genap dan Fibonaci
